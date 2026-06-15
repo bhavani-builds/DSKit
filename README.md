@@ -233,7 +233,7 @@ Ideas for new commands? [Open an issue](https://github.com/yourusername/dskit/is
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/yourusername)
+MIT © [bhavani neelapala]
 
 ---
 
